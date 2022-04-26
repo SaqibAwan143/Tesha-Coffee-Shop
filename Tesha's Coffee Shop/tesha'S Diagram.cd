@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tesha_s_Coffee_Shop.BL.CoffeeShopBL" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\CoffeeShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.BL.MenuItemBL" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.DL.coffeeShopDL" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAABAAQAADAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>DL\coffeeShopDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.DL.menuItemDL" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIABAAAAAAAAAABAAAAAAABAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DL\menuItemDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UI.coffeeshopUI" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgABAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>UI\coffeeshopUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UI.MenuItemUI" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACAAAAACAAAAAgACAA=</HashCode>
+      <FileName>UI\MenuItemUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UI.MenuUi" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
